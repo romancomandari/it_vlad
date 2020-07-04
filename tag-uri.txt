@@ -54,3 +54,8 @@ imagini
 <img src="mercury.jpg" alt="planeta mercur">
 
 aptributul "alt" - descrie imaginea cand aceasta nu poate fi incarcata
+
+*********************
+
+Linkuri de imagine
+<a href="http://phphtml.net"><img src="smile.png"></a>
