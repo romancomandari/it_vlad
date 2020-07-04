@@ -1,0 +1,19 @@
+TAG-URI:
+<html></html>
+<head></head>
+<body></body>
+<p></p>
+<title></title>
+
+ATRIBUTE:
+<img src="img_girl.jpg" alt="Girl with a jacket">
+img - tag
+src - atribut
+alt - atribut
+"img_girl.jpg" - VALOAREA atributului "src"
+"Girl with a jacket" - VALOAREA atributului "alt"
+
+<p style="color:red;">This is a red paragraph.</p>
+p - tag
+style - atribut
+color: red; - valoare
