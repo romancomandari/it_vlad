@@ -1,0 +1,7 @@
+git status
+
+git add .
+
+git commit -m "comentariul meu"
+
+git push -u origin master
