@@ -33,6 +33,8 @@ liste neordonate
 	<li>Третий пункт списка.</li>
 </ul>
 
+<ul style="list-style-type:square"> - schimba cerculetele in patrate
+https://www.w3schools.com/cssref/pr_list-style-type.asp
 ********************
 
 lista ordonata
@@ -47,6 +49,9 @@ lista ordonata
 link-uri
 <a href="http://google.com">Trimitere catre google</a>
 
+Linkuri de imagine
+<a href="http://phphtml.net"><img src="smile.png"></a>
+
 *********************
 
 imagini
@@ -57,5 +62,5 @@ aptributul "alt" - descrie imaginea cand aceasta nu poate fi incarcata
 
 *********************
 
-Linkuri de imagine
-<a href="http://phphtml.net"><img src="smile.png"></a>
+
+
