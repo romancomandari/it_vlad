@@ -1,0 +1,35 @@
+3 metode de folosi css:
+
+*************
+
+metoda 1: fisier aparte css:
+
+<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+		<link rel="stylesheet" href="style.css">
+</head>
+
+*************
+
+metoda 2: tagul <style> direct in fisierul html
+
+<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл </title>
+		<style>
+			p {
+				color: red;
+			}
+		</style>
+</head>
+
+****************
+
+metoda 3: inline - folosnd atributul "style" direct in "tag"
+
+<body>
+		<p style="color: red;">
+			Это абзац с текстом.
+		</p>
+</body>

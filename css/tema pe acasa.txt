@@ -1,0 +1,10 @@
+1. creaza o pagina cu fonul "silver"
+
+2. pagina sa contina 3 anteturi si sub fiecare antet - 3 paragrafe.
+
+Anteturile si paragrafele trebuie sa aiba urmatoarea structura:
+
+Antet - culoare text "***"; fonul paragafele de aceeasi culoare cu textul antetului
+
+
+

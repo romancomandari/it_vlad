@@ -1,0 +1,8 @@
+coloreaza textul:
+color: red; | #fff; | #008B8B;
+
+coloreaza fonul:
+background-color: #CD5C5C;
+
+marimea la text:
+font-size: 23px;
