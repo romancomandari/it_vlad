@@ -1,8 +1,36 @@
 coloreaza textul:
-color: red; | #fff; | #008B8B;
+color: red; | #fff; | #008B8B; | rgb(200, 100, 125);
 
 coloreaza fonul:
 background-color: #CD5C5C;
 
 marimea la text:
-font-size: 23px;
+font-size: 23px; | 10pt; | 2%;
+
+aliniere text:
+text-align: left; | right; | center; | justify;
+
+grosimea textului:
+font-weight: normal; bold;
+
+text italic (inclinat):
+font-style: italic;
+
+stilul textului:
+font-family: Arial;
+
+spatiu iuntre randuri:
+line-height: 50px;
+
+tasta tab:
+text-indent: 50px;
+
+latime:
+width: 10px; | 10%;
+
+inaltime:
+height: 10px; | 10%;
+
+peretii tag-ului:
+border: 1px solid black;
+

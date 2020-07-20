@@ -1,0 +1,35 @@
+
+p{
+	color: red;
+	font-style: italic;
+	font-size: 15px;
+	font-family: Arial;
+	line-height: 30px;
+	text-indent: 30px;
+}
+
+
+h1{
+	color: green;
+	background-color: #119876;
+	text-align: center;
+	font-weight: normal;
+}
+
+h2{
+	color: blue;
+	width: 300px;
+	background-color: #435712;
+	text-align: right;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 20px;
+	/*font-family: "Times New Roman";*/
+}
+
+h3{
+	color: orange;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+
